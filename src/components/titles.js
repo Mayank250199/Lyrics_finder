@@ -5,7 +5,7 @@ class Titles extends React.Component{
     return(
       <div>
         <h1 className="title-container__title">Lyrics Finder</h1>
-      <h3 className="title-container__subtitle">Find out Your story just by one click </h3>
+      <h3 className="title-container__subtitle">Find Your story just by one click </h3>
       </div>
     );
   }
