@@ -9,4 +9,4 @@ React_app use to search song Lyrics
 ![alt text](img/2.jpg)
 
 ## To Run This React_app
-First Install all node dependencies by using command(npm install) then run tis programm by typing npm start.
+First Install all node dependencies by using command(npm install) then run this program by typing npm start.
